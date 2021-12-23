@@ -5,4 +5,5 @@ public class Student {
     private char sex;
     private int age;
     private double height;
+    private double weight;
 }
